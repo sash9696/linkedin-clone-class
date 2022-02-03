@@ -1,0 +1,18 @@
+.inputItems{
+    display: flex;
+    align-items: center;
+    font-size: 1rem;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    padding: 8px;
+}
+.inputItems > p{
+    margin-left: 10px;
+}
+.inputItems:hover{
+    cursor: pointer;
+    background-color: whitesmoke;
+    color: black;
+    border-radius: 10px;
+}
+
